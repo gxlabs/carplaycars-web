@@ -3,17 +3,44 @@ layout: default
 title: "gxlabs"
 ---
 
-<div class="container text-center">
+<div class="container">
     <form autocomplete="off">
-        <input id="search" class="form-control form-control-lg" placeholder="Search make, model, year (e.g. &quot;Honda Accord 2021 Touring&quot;)" />
+        <input id="searchMake" class="form-control form-control-lg" placeholder="Search make (e.g. &quot;Honda&quot;)" />
 
-        <div class="form-check">
+        <div class="form-check mt-2">
           <input class="form-check-input" type="checkbox" value="" id="carKey">
           <label class="form-check-label" for="carKey">CarKey</label>
         </div>
 
+        <div class="form-check mt-2">
+          <input class="form-check-input" type="checkbox" value="" id="wirelessCarPlay">
+          <label class="form-check-label" for="wirelessCarPlay">Wireless CarPlay</label>
+        </div>
     </form>
 </div>
-<div class="container mt-4" id="matches"></div>
+<hr />
+<div class="container mt-4" id="accordion">
+    <h2>Makes</h2>
+    {% for make in site.data.cars.makes %}
+    <div class="card mt-4 make {% if make.carplay_count > 0 %}carplay{% endif %} {% if make.wireless_carplay_count > 0 %}wireless-carplay{% endif %} {%if make.carkey_count > 0 %}carkey{% endif %}" data-name="{{make.name}}">
+        <div class="card-header" id="heading-{{make.name}}">
+            <h5 class="mb-0">
+                <button class="btn btn-link" data-toggle="collapse" data-target="#collapse-{{make.name}}" aria-expanded="false" aria-controls="collapse-{{make.name}}">{{ make.name }} ({{ make.models | size }} models)</button>
+                {% if make.carplay_count > 0 %}<span>CarPlay</span>{% endif %}{% if make.wireless_carplay_count > 0 %}<span>, Wireless CarPlay</span>{% endif %}{% if make.carkey_count > 0 %}<span>, CarKey</span>{% endif %}
+            </h5>
+        </div>
+        <div id="collapse-{{make.name}}" class="collapse" aria-labelledby="heading-{{make.name}}" data-parent="#accordion">
+            {% for model in make.models %}
+            <p class="model {% if model.carplay_count > 0 %}carplay{% endif %} {% if model.wireless_carplay_count > 0 %}wireless-carplay{% endif %} {%if model.carkey_count > 0 %}carkey{% endif %}">
+                <a href="/models/{{make.name | slugify }}/{{model.name | slugify }}">{{ model.name }}</a>
+                {% if model.carplay_count > 0 %}<span>CarPlay</span>
+                {% endif %}{% if model.wireless_carplay_count > 0 %}<span>, Wireless CarPlay</span>
+                {% endif %}{% if model.carkey_count > 0 %}<span>, CarKey</span>{% endif %}
+            </p>
+            {% endfor %}
+        </div>
+    </div>
+    {% endfor %}
+</div>
 
 <script src="/js/index.js"></script>
