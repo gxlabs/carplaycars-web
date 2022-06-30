@@ -31,12 +31,15 @@ title: "gxlabs"
         </div>
         <div id="collapse-{{make.name}}" class="collapse" aria-labelledby="heading-{{make.name}}" data-parent="#accordion">
             {% for model in make.models %}
-            <p class="model {% if model.carplay_count > 0 %}carplay{% endif %} {% if model.wireless_carplay_count > 0 %}wireless-carplay{% endif %} {%if model.carkey_count > 0 %}carkey{% endif %}">
-                <a href="/models/{{make.name | slugify }}/{{model.name | slugify }}">{{ model.name }}</a>
-                {% if model.carplay_count > 0 %}<span>CarPlay</span>
-                {% endif %}{% if model.wireless_carplay_count > 0 %}<span>, Wireless CarPlay</span>
-                {% endif %}{% if model.carkey_count > 0 %}<span>, CarKey</span>{% endif %}
-            </p>
+            <div class="container">
+                <p class="model {% if model.carplay_count > 0 %}carplay{% endif %} {% if model.wireless_carplay_count > 0 %}wireless-carplay{% endif %} {%if model.carkey_count > 0 %}carkey{% endif %}">{{ model.name }}</p>
+                <ul>
+                {% for year in model.years %}
+                {% assign wireless_carplay_trims = year.trims | where:"has_wireless_carplay",true | map: "name" %}
+                <li>{{year.year}}<ul>{% if year.has_carplay %}<li>CarPlay</li>{% endif %}{% if wireless_carplay_trims.size > 0 %}<li>Wireless CarPlay ({{ wireless_carplay_trims | join: ", "}})</li>{% endif %}{% if year.has_carkey %}<li>CarKey</li>{% endif %}</ul></li>
+                {% endfor %}
+                </ul>
+            </div>
             {% endfor %}
         </div>
     </div>
