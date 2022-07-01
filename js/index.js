@@ -26,6 +26,20 @@ function filter(searchMakeValue, filterWirelessCarPlay, filterCarKey) {
     if (filterCarKey && !model.classList.contains('carkey')) {
       display = false
     }
+    model.style.display = display ? 'block' : 'none';
+  }
+
+  let yearElements = document.getElementsByClassName('year')
+  for (var i = 0; i < yearElements.length; i++) {
+    var year = yearElements[i];
+    var display = true
+    if (filterWirelessCarPlay && !year.classList.contains('wireless-carplay')) {
+      display = false
+    }
+    if (filterCarKey && !year.classList.contains('carkey')) {
+      display = false
+    }
+    year.style.display = display ? 'block' : 'none';
   }
 }
 
