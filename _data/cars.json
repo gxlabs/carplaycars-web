@@ -176,12 +176,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 5,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "NSX",
@@ -252,12 +257,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 4,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "TLX",
@@ -300,7 +310,7 @@
             ],
             "carplay_count": 25,
             "carkey_count": 0,
-            "wireless_carplay_count": 0
+            "wireless_carplay_count": 2
         },
         {
             "name": "Alfa-Romeo",
@@ -550,12 +560,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "A4",
@@ -599,12 +614,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "A5",
@@ -648,12 +668,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "A6",
@@ -697,12 +722,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "A7",
@@ -746,12 +776,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "A8",
@@ -783,12 +818,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 4,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Q2",
@@ -858,12 +898,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 3,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Q4 Sportback e\u2011tron",
@@ -929,12 +974,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 5,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Q7",
@@ -978,12 +1028,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Q8",
@@ -1015,12 +1070,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 4,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "R8",
@@ -1117,12 +1177,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 1,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "e\u2011tron Sportback",
@@ -1179,7 +1244,7 @@
             ],
             "carplay_count": 79,
             "carkey_count": 0,
-            "wireless_carplay_count": 9
+            "wireless_carplay_count": 20
         },
         {
             "name": "Baojun",
@@ -1471,19 +1536,7 @@
                         },
                         {
                             "year": 2021,
-                            "has_carkey": false,
-                            "has_carplay": true,
-                            "trims": []
-                        },
-                        {
-                            "year": 2021,
                             "has_carkey": true,
-                            "has_carplay": true,
-                            "trims": []
-                        },
-                        {
-                            "year": 2022,
-                            "has_carkey": false,
                             "has_carplay": true,
                             "trims": []
                         },
@@ -1494,7 +1547,7 @@
                             "trims": []
                         }
                     ],
-                    "carplay_count": 8,
+                    "carplay_count": 6,
                     "carkey_count": 2,
                     "wireless_carplay_count": 0
                 },
@@ -1527,25 +1580,6 @@
                         },
                         {
                             "year": 2021,
-                            "has_carkey": false,
-                            "has_carplay": true,
-                            "trims": [
-                                {
-                                    "name": "Gran Coupe",
-                                    "has_wireless_carplay": true
-                                },
-                                {
-                                    "name": "Coupe",
-                                    "has_wireless_carplay": true
-                                },
-                                {
-                                    "name": "Convertible",
-                                    "has_wireless_carplay": true
-                                }
-                            ]
-                        },
-                        {
-                            "year": 2021,
                             "has_carkey": true,
                             "has_carplay": true,
                             "trims": [
@@ -1565,18 +1599,17 @@
                         },
                         {
                             "year": 2022,
-                            "has_carkey": false,
-                            "has_carplay": true,
-                            "trims": []
-                        },
-                        {
-                            "year": 2022,
                             "has_carkey": true,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
-                    "carplay_count": 8,
+                    "carplay_count": 6,
                     "carkey_count": 2,
                     "wireless_carplay_count": 2
                 },
@@ -1609,17 +1642,6 @@
                         },
                         {
                             "year": 2021,
-                            "has_carkey": false,
-                            "has_carplay": true,
-                            "trims": [
-                                {
-                                    "name": "All Trims",
-                                    "has_wireless_carplay": true
-                                }
-                            ]
-                        },
-                        {
-                            "year": 2021,
                             "has_carkey": true,
                             "has_carplay": true,
                             "trims": [
@@ -1631,18 +1653,17 @@
                         },
                         {
                             "year": 2022,
-                            "has_carkey": false,
-                            "has_carplay": true,
-                            "trims": []
-                        },
-                        {
-                            "year": 2022,
                             "has_carkey": true,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
-                    "carplay_count": 8,
+                    "carplay_count": 6,
                     "carkey_count": 2,
                     "wireless_carplay_count": 2
                 },
@@ -1675,17 +1696,6 @@
                         },
                         {
                             "year": 2021,
-                            "has_carkey": false,
-                            "has_carplay": true,
-                            "trims": [
-                                {
-                                    "name": "All Trims",
-                                    "has_wireless_carplay": true
-                                }
-                            ]
-                        },
-                        {
-                            "year": 2021,
                             "has_carkey": true,
                             "has_carplay": true,
                             "trims": [
@@ -1697,18 +1707,17 @@
                         },
                         {
                             "year": 2022,
-                            "has_carkey": false,
-                            "has_carplay": true,
-                            "trims": []
-                        },
-                        {
-                            "year": 2022,
                             "has_carkey": true,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
-                    "carplay_count": 8,
+                    "carplay_count": 6,
                     "carkey_count": 2,
                     "wireless_carplay_count": 2
                 },
@@ -1741,17 +1750,6 @@
                         },
                         {
                             "year": 2021,
-                            "has_carkey": false,
-                            "has_carplay": true,
-                            "trims": [
-                                {
-                                    "name": "All Trims",
-                                    "has_wireless_carplay": true
-                                }
-                            ]
-                        },
-                        {
-                            "year": 2021,
                             "has_carkey": true,
                             "has_carplay": true,
                             "trims": [
@@ -1763,18 +1761,17 @@
                         },
                         {
                             "year": 2022,
-                            "has_carkey": false,
-                            "has_carplay": true,
-                            "trims": []
-                        },
-                        {
-                            "year": 2022,
                             "has_carkey": true,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
-                    "carplay_count": 8,
+                    "carplay_count": 6,
                     "carkey_count": 2,
                     "wireless_carplay_count": 2
                 },
@@ -1858,12 +1855,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "8 Series",
@@ -1888,17 +1890,6 @@
                         },
                         {
                             "year": 2021,
-                            "has_carkey": false,
-                            "has_carplay": true,
-                            "trims": [
-                                {
-                                    "name": "All Trims",
-                                    "has_wireless_carplay": true
-                                }
-                            ]
-                        },
-                        {
-                            "year": 2021,
                             "has_carkey": true,
                             "has_carplay": true,
                             "trims": [
@@ -1910,18 +1901,17 @@
                         },
                         {
                             "year": 2022,
-                            "has_carkey": false,
-                            "has_carplay": true,
-                            "trims": []
-                        },
-                        {
-                            "year": 2022,
                             "has_carkey": true,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
-                    "carplay_count": 7,
+                    "carplay_count": 5,
                     "carkey_count": 2,
                     "wireless_carplay_count": 2
                 },
@@ -1961,12 +1951,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 5,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "X2",
@@ -2004,12 +1999,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 5,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "X3",
@@ -2053,12 +2053,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "X4",
@@ -2102,12 +2107,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "X5 M",
@@ -2158,17 +2168,6 @@
                         },
                         {
                             "year": 2021,
-                            "has_carkey": false,
-                            "has_carplay": true,
-                            "trims": [
-                                {
-                                    "name": "All Trims",
-                                    "has_wireless_carplay": true
-                                }
-                            ]
-                        },
-                        {
-                            "year": 2021,
                             "has_carkey": true,
                             "has_carplay": true,
                             "trims": [
@@ -2180,18 +2179,17 @@
                         },
                         {
                             "year": 2022,
-                            "has_carkey": false,
-                            "has_carplay": true,
-                            "trims": []
-                        },
-                        {
-                            "year": 2022,
                             "has_carkey": true,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
-                    "carplay_count": 8,
+                    "carplay_count": 6,
                     "carkey_count": 2,
                     "wireless_carplay_count": 2
                 },
@@ -2244,17 +2242,6 @@
                         },
                         {
                             "year": 2021,
-                            "has_carkey": false,
-                            "has_carplay": true,
-                            "trims": [
-                                {
-                                    "name": "All Trims",
-                                    "has_wireless_carplay": true
-                                }
-                            ]
-                        },
-                        {
-                            "year": 2021,
                             "has_carkey": true,
                             "has_carplay": true,
                             "trims": [
@@ -2266,18 +2253,17 @@
                         },
                         {
                             "year": 2022,
-                            "has_carkey": false,
-                            "has_carplay": true,
-                            "trims": []
-                        },
-                        {
-                            "year": 2022,
                             "has_carkey": true,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
-                    "carplay_count": 8,
+                    "carplay_count": 6,
                     "carkey_count": 2,
                     "wireless_carplay_count": 2
                 },
@@ -2304,17 +2290,6 @@
                         },
                         {
                             "year": 2021,
-                            "has_carkey": false,
-                            "has_carplay": true,
-                            "trims": [
-                                {
-                                    "name": "All Trims",
-                                    "has_wireless_carplay": true
-                                }
-                            ]
-                        },
-                        {
-                            "year": 2021,
                             "has_carkey": true,
                             "has_carplay": true,
                             "trims": [
@@ -2326,18 +2301,17 @@
                         },
                         {
                             "year": 2022,
-                            "has_carkey": false,
-                            "has_carplay": true,
-                            "trims": []
-                        },
-                        {
-                            "year": 2022,
                             "has_carkey": true,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
-                    "carplay_count": 7,
+                    "carplay_count": 5,
                     "carkey_count": 2,
                     "wireless_carplay_count": 2
                 },
@@ -2358,17 +2332,6 @@
                         },
                         {
                             "year": 2021,
-                            "has_carkey": false,
-                            "has_carplay": true,
-                            "trims": [
-                                {
-                                    "name": "All Trims",
-                                    "has_wireless_carplay": true
-                                }
-                            ]
-                        },
-                        {
-                            "year": 2021,
                             "has_carkey": true,
                             "has_carplay": true,
                             "trims": [
@@ -2380,18 +2343,17 @@
                         },
                         {
                             "year": 2022,
-                            "has_carkey": false,
-                            "has_carplay": true,
-                            "trims": []
-                        },
-                        {
-                            "year": 2022,
                             "has_carkey": true,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
-                    "carplay_count": 6,
+                    "carplay_count": 4,
                     "carkey_count": 2,
                     "wireless_carplay_count": 2
                 },
@@ -2468,17 +2430,22 @@
                             "year": 2022,
                             "has_carkey": true,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 1,
                     "carkey_count": 1,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 }
             ],
-            "carplay_count": 121,
+            "carplay_count": 101,
             "carkey_count": 28,
-            "wireless_carplay_count": 23
+            "wireless_carplay_count": 29
         },
         {
             "name": "Borgward",
@@ -2698,12 +2665,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 5,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Encore",
@@ -2796,12 +2768,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Excelle",
@@ -3138,7 +3115,7 @@
             ],
             "carplay_count": 59,
             "carkey_count": 0,
-            "wireless_carplay_count": 2
+            "wireless_carplay_count": 4
         },
         {
             "name": "Cadillac",
@@ -3271,12 +3248,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 3,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "CT5-V Blackwing",
@@ -3342,12 +3324,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 3,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "CT6-V",
@@ -3621,12 +3608,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 4,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "XT5",
@@ -3670,12 +3662,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "XT6",
@@ -3701,12 +3698,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 3,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "XTS",
@@ -3743,7 +3745,7 @@
             ],
             "carplay_count": 70,
             "carkey_count": 0,
-            "wireless_carplay_count": 5
+            "wireless_carplay_count": 10
         },
         {
             "name": "Chery",
@@ -4173,12 +4175,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 4,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Bolt EUV",
@@ -4336,12 +4343,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 7,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Captiva",
@@ -4537,12 +4549,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 7,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Cruze",
@@ -4625,12 +4642,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 5,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Impala",
@@ -4718,12 +4740,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 7,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Monza",
@@ -5001,12 +5028,29 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "1500",
+                                    "has_wireless_carplay": true
+                                },
+                                {
+                                    "name": "1500 Ltd",
+                                    "has_wireless_carplay": true
+                                },
+                                {
+                                    "name": "2500",
+                                    "has_wireless_carplay": true
+                                },
+                                {
+                                    "name": "3500",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 7,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Sonic",
@@ -5150,12 +5194,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 7,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Tahoe",
@@ -5205,12 +5254,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 7,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Tracker",
@@ -5280,12 +5334,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 3,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Traverse",
@@ -5318,12 +5377,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 5,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Trax",
@@ -5404,7 +5468,7 @@
             ],
             "carplay_count": 167,
             "carkey_count": 0,
-            "wireless_carplay_count": 7
+            "wireless_carplay_count": 17
         },
         {
             "name": "Chrysler",
@@ -5489,12 +5553,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 5,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Voyager",
@@ -5519,7 +5588,7 @@
             ],
             "carplay_count": 13,
             "carkey_count": 0,
-            "wireless_carplay_count": 1
+            "wireless_carplay_count": 2
         },
         {
             "name": "Citroen",
@@ -6758,12 +6827,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 5,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Journey",
@@ -6794,7 +6868,7 @@
             ],
             "carplay_count": 20,
             "carkey_count": 0,
-            "wireless_carplay_count": 1
+            "wireless_carplay_count": 2
         },
         {
             "name": "Dongfeng",
@@ -8937,12 +9011,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 2,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "C-MAX",
@@ -9045,12 +9124,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Escape",
@@ -9147,12 +9231,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Explorer",
@@ -9466,12 +9555,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "Mach-E",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Super Duty",
@@ -9634,7 +9728,7 @@
             ],
             "carplay_count": 91,
             "carkey_count": 0,
-            "wireless_carplay_count": 2
+            "wireless_carplay_count": 6
         },
         {
             "name": "Genesis",
@@ -9726,18 +9820,12 @@
                         },
                         {
                             "year": 2022,
-                            "has_carkey": false,
-                            "has_carplay": true,
-                            "trims": []
-                        },
-                        {
-                            "year": 2022,
                             "has_carkey": true,
                             "has_carplay": true,
                             "trims": []
                         }
                     ],
-                    "carplay_count": 4,
+                    "carplay_count": 3,
                     "carkey_count": 1,
                     "wireless_carplay_count": 0
                 },
@@ -9790,7 +9878,7 @@
                     "wireless_carplay_count": 0
                 }
             ],
-            "carplay_count": 17,
+            "carplay_count": 16,
             "carkey_count": 2,
             "wireless_carplay_count": 0
         },
@@ -9839,12 +9927,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Canyon",
@@ -9980,12 +10073,21 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "1500",
+                                    "has_wireless_carplay": true
+                                },
+                                {
+                                    "name": "1500 Ltd",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 7,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Terrain",
@@ -10018,12 +10120,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 5,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Yukon XL",
@@ -10123,17 +10230,26 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "Standard",
+                                    "has_wireless_carplay": true
+                                },
+                                {
+                                    "name": "Xl",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 7,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 }
             ],
             "carplay_count": 41,
             "carkey_count": 0,
-            "wireless_carplay_count": 3
+            "wireless_carplay_count": 7
         },
         {
             "name": "Haima",
@@ -11096,12 +11212,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 7,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "CR-V",
@@ -11190,12 +11311,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 7,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Clarity",
@@ -11480,7 +11606,7 @@
             ],
             "carplay_count": 56,
             "carkey_count": 0,
-            "wireless_carplay_count": 1
+            "wireless_carplay_count": 3
         },
         {
             "name": "Hyundai",
@@ -11510,12 +11636,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 4,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Azera",
@@ -11663,12 +11794,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Genesis Sedan",
@@ -11773,12 +11909,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Nexo",
@@ -11830,12 +11971,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 3,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "SANTA CRUZ",
@@ -11844,12 +11990,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 1,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Santa Fe Sport",
@@ -11928,12 +12079,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Sonata",
@@ -11984,12 +12140,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 8,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Tucson",
@@ -12034,12 +12195,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 7,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Veloster",
@@ -12110,12 +12276,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 3,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "i10",
@@ -12270,7 +12441,7 @@
             ],
             "carplay_count": 98,
             "carkey_count": 0,
-            "wireless_carplay_count": 2
+            "wireless_carplay_count": 11
         },
         {
             "name": "Indian-Motorcycle",
@@ -12380,12 +12551,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 3,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Q60",
@@ -12406,12 +12582,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 3,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "QX50",
@@ -12432,12 +12613,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 3,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "QX55",
@@ -12446,12 +12632,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 1,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "QX60",
@@ -12460,12 +12651,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 1,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "QX80",
@@ -12486,17 +12682,22 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 3,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 }
             ],
             "carplay_count": 14,
             "carkey_count": 0,
-            "wireless_carplay_count": 0
+            "wireless_carplay_count": 6
         },
         {
             "name": "Jaguar",
@@ -12772,12 +12973,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Gladiator",
@@ -12841,12 +13047,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 5,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Grand Wagoneer",
@@ -12855,12 +13066,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 1,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Renegade",
@@ -12907,12 +13123,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 1,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Wrangler",
@@ -12955,7 +13176,7 @@
             ],
             "carplay_count": 29,
             "carkey_count": 0,
-            "wireless_carplay_count": 1
+            "wireless_carplay_count": 5
         },
         {
             "name": "Kia",
@@ -12999,12 +13220,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 1,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "EV6",
@@ -13057,12 +13283,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "K5",
@@ -13082,12 +13313,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 2,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "K8",
@@ -13202,20 +13438,19 @@
                         },
                         {
                             "year": 2022,
-                            "has_carkey": false,
-                            "has_carplay": true,
-                            "trims": []
-                        },
-                        {
-                            "year": 2022,
                             "has_carkey": true,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
-                    "carplay_count": 7,
+                    "carplay_count": 6,
                     "carkey_count": 1,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Optima Hybrid",
@@ -13368,12 +13603,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 5,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Sedona",
@@ -13487,12 +13727,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Soul EV",
@@ -13715,9 +13960,9 @@
                     "wireless_carplay_count": 0
                 }
             ],
-            "carplay_count": 96,
+            "carplay_count": 95,
             "carkey_count": 1,
-            "wireless_carplay_count": 2
+            "wireless_carplay_count": 8
         },
         {
             "name": "Lada",
@@ -15283,12 +15528,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 5,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Navigator",
@@ -15327,17 +15577,22 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 }
             ],
             "carplay_count": 35,
             "carkey_count": 0,
-            "wireless_carplay_count": 0
+            "wireless_carplay_count": 2
         },
         {
             "name": "Mahindra",
@@ -15631,12 +15886,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "GranTurismo",
@@ -15701,12 +15961,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Quattroporte",
@@ -15745,17 +16010,22 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 }
             ],
             "carplay_count": 26,
             "carkey_count": 0,
-            "wireless_carplay_count": 0
+            "wireless_carplay_count": 3
         },
         {
             "name": "Maxus",
@@ -16988,25 +17258,7 @@
                             "trims": []
                         },
                         {
-                            "year": 2020,
-                            "has_carkey": false,
-                            "has_carplay": true,
-                            "trims": []
-                        },
-                        {
                             "year": 2021,
-                            "has_carkey": false,
-                            "has_carplay": true,
-                            "trims": []
-                        },
-                        {
-                            "year": 2021,
-                            "has_carkey": false,
-                            "has_carplay": true,
-                            "trims": []
-                        },
-                        {
-                            "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
                             "trims": []
@@ -17018,7 +17270,7 @@
                             "trims": []
                         }
                     ],
-                    "carplay_count": 9,
+                    "carplay_count": 6,
                     "carkey_count": 0,
                     "wireless_carplay_count": 0
                 },
@@ -17205,7 +17457,7 @@
                     "wireless_carplay_count": 0
                 }
             ],
-            "carplay_count": 111,
+            "carplay_count": 108,
             "carkey_count": 0,
             "wireless_carplay_count": 0
         },
@@ -18476,12 +18728,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 2,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Frontier",
@@ -18784,12 +19041,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 1,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Patrol",
@@ -18917,12 +19179,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 5,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Sentra",
@@ -19075,7 +19342,7 @@
             ],
             "carplay_count": 79,
             "carkey_count": 0,
-            "wireless_carplay_count": 1
+            "wireless_carplay_count": 4
         },
         {
             "name": "Opel",
@@ -20396,12 +20663,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Cayenne",
@@ -20445,12 +20717,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Macan",
@@ -20494,12 +20771,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Panamera",
@@ -20543,12 +20825,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Taycan",
@@ -20569,17 +20856,22 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 3,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 }
             ],
             "carplay_count": 33,
             "carkey_count": 0,
-            "wireless_carplay_count": 4
+            "wireless_carplay_count": 9
         },
         {
             "name": "Qoros",
@@ -24129,12 +24421,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 3,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Venza",
@@ -24199,7 +24496,7 @@
             ],
             "carplay_count": 71,
             "carkey_count": 0,
-            "wireless_carplay_count": 0
+            "wireless_carplay_count": 1
         },
         {
             "name": "Vauxhall",
@@ -25027,12 +25324,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Beetle Cabriolet",
@@ -25631,12 +25933,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 7,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Golf SportWagen",
@@ -25876,12 +26183,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 2,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "ID.5",
@@ -25959,12 +26271,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 7,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Lamando",
@@ -26485,12 +26802,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 1,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 1
                 },
                 {
                     "name": "Tiguan",
@@ -26540,12 +26862,17 @@
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 7,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 1
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Touran",
@@ -26738,7 +27065,7 @@
             ],
             "carplay_count": 243,
             "carkey_count": 0,
-            "wireless_carplay_count": 5
+            "wireless_carplay_count": 11
         }
     ]
 }

@@ -26,7 +26,7 @@ title: "gxlabs"
         <div class="card-header" id="heading-{{make.name}}">
             <h5 class="mb-0">
                 <button class="btn btn-link" data-toggle="collapse" data-target="#collapse-{{make.name}}" aria-expanded="false" aria-controls="collapse-{{make.name}}">{{ make.name }} ({{ make.models | size }} models)</button>
-                {% if make.carplay_count > 0 %}<span>CarPlay</span>{% endif %}{% if make.wireless_carplay_count > 0 %}<span>, Wireless CarPlay</span>{% endif %}{% if make.carkey_count > 0 %}<span>, CarKey</span>{% endif %}
+                {% if make.carplay_count > 0 %}<span>Wired CarPlay</span>{% endif %}{% if make.wireless_carplay_count > 0 %}<span>, Wireless CarPlay</span>{% endif %}{% if make.carkey_count > 0 %}<span>, CarKey</span>{% endif %}
             </h5>
         </div>
         <div id="collapse-{{make.name}}" class="collapse" aria-labelledby="heading-{{make.name}}" data-parent="#accordion">
@@ -36,7 +36,7 @@ title: "gxlabs"
                 <ul>
                 {% for year in model.years %}
                 {% assign wireless_carplay_trims = year.trims | where:"has_wireless_carplay",true | map: "name" %}
-                <li>{{year.year}}<ul>{% if year.has_carplay %}<li>CarPlay</li>{% endif %}{% if wireless_carplay_trims.size > 0 %}<li>Wireless CarPlay ({{ wireless_carplay_trims | join: ", "}})</li>{% endif %}{% if year.has_carkey %}<li>CarKey</li>{% endif %}</ul></li>
+                <li>{{year.year}}<ul>{% if year.has_carplay %}<li>Wired CarPlay</li>{% endif %}{% if wireless_carplay_trims.size > 0 %}<li>Wireless CarPlay ({{ wireless_carplay_trims | join: ", "}})</li>{% endif %}{% if year.has_carkey %}<li>CarKey</li>{% endif %}</ul></li>
                 {% endfor %}
                 </ul>
             </div>
@@ -44,6 +44,16 @@ title: "gxlabs"
         </div>
     </div>
     {% endfor %}
+</div>
+<div class="container mt-4">
+    <h2>About</h2>
+    <p>This data was taken from the following sources</p>
+    <ul>
+        <li>Wired CarPlay and CarKey models: <a href="https://www.apple.com/ios/carplay/available-models">iOS CarPlay Available Models</a></li>
+        <li>Wireless CarPlay 2021 models: <a href="https://www.cars.com/articles/which-cars-have-wireless-apple-carplay-and-android-auto-for-2021-446866/">Which Cars Offer Wireless Apple CarPlay or Android Auto for 2021?</a></li>
+        <li>Wireless CarPlay 2022 models: <a href="https://www.cars.com/articles/wireless-apple-carplay-and-android-auto-where-are-they-now-407297/">Wireless Apple CarPlay and Android Auto: Where Are They Now?</a></li>
+    </ul>
+    <p>If any data is inaccurate or make/models/years/trims are missing from the list, please email enquiries@gxlabs.co</p>
 </div>
 
 <script src="/js/index.js"></script>
