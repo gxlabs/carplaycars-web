@@ -9318,18 +9318,32 @@
                             "year": 2021,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "All Trims",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         },
                         {
                             "year": 2022,
                             "has_carkey": false,
                             "has_carplay": true,
-                            "trims": []
+                            "trims": [
+                                {
+                                    "name": "Standard",
+                                    "has_wireless_carplay": true
+                                },
+                                {
+                                    "name": "Lightning",
+                                    "has_wireless_carplay": true
+                                }
+                            ]
                         }
                     ],
                     "carplay_count": 6,
                     "carkey_count": 0,
-                    "wireless_carplay_count": 0
+                    "wireless_carplay_count": 2
                 },
                 {
                     "name": "Fiesta",
@@ -9728,7 +9742,7 @@
             ],
             "carplay_count": 91,
             "carkey_count": 0,
-            "wireless_carplay_count": 6
+            "wireless_carplay_count": 8
         },
         {
             "name": "Genesis",
