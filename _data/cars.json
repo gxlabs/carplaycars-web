@@ -11217,7 +11217,11 @@
                             "has_carplay": true,
                             "trims": [
                                 {
-                                    "name": "All Trims",
+                                    "name": "Ex-L",
+                                    "has_wireless_carplay": true
+                                },
+                                {
+                                    "name": "Touring",
                                     "has_wireless_carplay": true
                                 }
                             ]
@@ -11228,7 +11232,11 @@
                             "has_carplay": true,
                             "trims": [
                                 {
-                                    "name": "All Trims",
+                                    "name": "Ex-L",
+                                    "has_wireless_carplay": true
+                                },
+                                {
+                                    "name": "Touring",
                                     "has_wireless_carplay": true
                                 }
                             ]
